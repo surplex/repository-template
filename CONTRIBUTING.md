@@ -2,7 +2,7 @@
 First of all we want to say **Thank You❤** for taking the time to support our project.
 
 ## Introduction
-The following is a set of guidelines and rules for contributing to Open-Source projects, published by [Surplex](https://github.com/surplex).
+The following is a set of guidelines and rules to contribute to open-source projects, published by [Surplex](https://github.com/surplex).
 Feel free to propose changes to this document.
 
 The key words **"MUST"**, **"MUST NOT"**, **"REQUIRED"**, **"SHALL"**, **"SHALL NOT"**, **"SHOULD"**, **"SHOULD NOT"**, **"RECOMMENDED"**, **"MAY"**, and **"OPTIONAL"** in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
