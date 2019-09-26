@@ -1,5 +1,5 @@
 # CONTRIBUTING
-First of all we want to **Thank You❤** for taking the time to support our project.
+First of all we want to say **Thank You❤** for taking the time to support our project.
 
 ## Introduction
 The following is a set of guidelines and rules for contributing to Open-Source projects, published by [Surplex](https://github.com/surplex).
