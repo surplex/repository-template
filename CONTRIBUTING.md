@@ -30,7 +30,7 @@ The coding standards/conventions are usually defined in the README.md. If they d
 * Comments **MUST** be written in **English**.
 * The names of **structures**, **individual types**, **enums**, **classes**, **methods**, **variables**, **functions**, **properties** and **namespaces** **MUST** be written in **English**.
 * Magic Numbers **SHOULD NOT** be used. 
-* The Task of a function or method **SHOULD** be described by the name.
+* The Name of a function or method **SHOULD** be descriptive.
 * Basically this principles **SHOULD** be used: Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle, YAGNI and KISS.
 
 #### PHP
