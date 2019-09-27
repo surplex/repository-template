@@ -67,4 +67,4 @@ You can put your feet up and wait for your pull request to be accepted ;)
 
 ## Questions
 If you have questions about one of our open-source projects, then feel free to write an issue.
-If this is a general question that doesn't relate to an open source project, then write us a mail at [github@surplex.com](mailto:github@surplex.com).
+If this is a general question that doesn't relate to an open source project, then write us a mail to [github@surplex.com](mailto:github@surplex.com).
