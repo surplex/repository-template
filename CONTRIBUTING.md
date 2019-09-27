@@ -22,7 +22,7 @@ The key words **"MUST"**, **"MUST NOT"**, **"REQUIRED"**, **"SHALL"**, **"SHALL 
 * [Questions](#questions)
 
 ## Style Guide
-To keep our project **consistent** and **clean**, every contributor **MUST** following the rules and guidelines.
+To keep our project **consistent** and **clean**, every contributor **MUST** follow the rules and guidelines.
 
 ### Coding Standards
 The coding standards/conventions are usually defined in the README.md. If they do not exist, these fallback rules will be apply:
