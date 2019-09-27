@@ -40,7 +40,7 @@ In addition, the following rules **MUST** be observed:
 * Variable names and method names **MUST** be written in **camelCase**.
 
 ### Branching Model
-We use for our project the [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) Model which is introduced by Vincent Driessen.
+For our project we use the [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) Model which is introduced by Vincent Driessen.
 We extended the branching model by separating bugfixes from features.
 To commit a bugfix you **MUST** use the new branch type called **Bugfix** which is indicated by the prefix *bugfix/*.
 
