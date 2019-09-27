@@ -47,7 +47,7 @@ To commit a bugfix you **MUST** use the new branch type called **Bugfix** which 
 ## Testing
 To avoid unexpected behavior of the software we maintain and use automated tests.
 * Every change or implementation **MUST NOT** break any tests. When a test fails, the test **MUST** be adjusted.
-* Every implementation of a new feature **MUST** have at least a unit test.
+* Every implementation of a new feature **MUST** have at least one unit test.
 * Every bugfix **SHOULD** have at least one test which tests this case.
 
 ## Pull Requests
