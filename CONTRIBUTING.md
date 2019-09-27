@@ -58,7 +58,7 @@ To sort your pull request correctly, it **MUST** use the available labels.
 **Bug** - Use this label if you have a bugfix or bug report.
 **Documentation** - Use this label if you have a improvement or addition to documentation.
 **Duplicate** - This label is used by the members of the organization to identify duplicates.
-**Feature** - Use this label if you have a new feature or a idea for a new feature.
+**Feature** - Use this label if you have a new feature or an idea for a new feature.
 **Question** - Use this label if you have a question.
 
 ### Reviewer
