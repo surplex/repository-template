@@ -31,7 +31,7 @@ The coding standards/conventions are usually defined in the README.md. If they d
 * The names of **structures**, **individual types**, **enums**, **classes**, **methods**, **variables**, **functions**, **properties** and **namespaces** **MUST** be written in **English**.
 * Magic Numbers **SHOULD NOT** be used. 
 * The Name of a function or method **SHOULD** be descriptive.
-* Basically this principles **SHOULD** be used: Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle, YAGNI and KISS.
+* Basically these principles **SHOULD** be used: Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle, YAGNI and KISS.
 
 #### PHP
 Since other people have already thought about guidelines, the proposal is to adopt the guidelines from [PSR-12](https://www.php-fig.org/psr/psr-12/). [PSR-12](https://www.php-fig.org/psr/psr-12/) complements [PSR-1](https://www.php-fig.org/psr/psr-1/) and [PSR-2](https://www.php-fig.org/psr/psr-2/), so these two **MUST** also be considered.
