@@ -25,7 +25,7 @@ The key words **"MUST"**, **"MUST NOT"**, **"REQUIRED"**, **"SHALL"**, **"SHALL 
 To keep our project **consistent** and **clean**, every contributor **MUST** follow the rules and guidelines.
 
 ### Coding Standards
-The coding standards/conventions are usually defined in the README.md. If they do not exist, these fallback rules will be apply:
+The coding standards/conventions are usually defined in the README.md. If they do not exist, these fallback rules will apply:
 #### Default
 * Comments **MUST** be written in **English**.
 * The names of **structures**, **individual types**, **enums**, **classes**, **methods**, **variables**, **functions**, **properties** and **namespaces** **MUST** be written in **English**.
