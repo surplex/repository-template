@@ -37,7 +37,7 @@ The coding standards/conventions are usually defined in the README.md. If they d
 Since other people have already thought about guidelines, the proposal is to adopt the guidelines from [PSR-12](https://www.php-fig.org/psr/psr-12/). [PSR-12](https://www.php-fig.org/psr/psr-12/) complements [PSR-1](https://www.php-fig.org/psr/psr-1/) and [PSR-2](https://www.php-fig.org/psr/psr-2/), so these two **MUST** also be considered.
 In addition, the following rules **MUST** be observed:
 * Classes **MUST** be written in **PascalCase** and set up according to [PSR-4](https://www.php-fig.org/psr/psr-4/) to ensure autoloading.
-* Variable names and Method names **MUST** be written in **camelCase**.
+* Variable names and method names **MUST** be written in **camelCase**.
 
 ### Branching Model
 We use for our project the [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) Model which is introduced by Vincent Driessen.
